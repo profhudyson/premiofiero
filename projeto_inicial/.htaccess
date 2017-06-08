@@ -1,0 +1,20 @@
+<?php
+
+namespace lib;
+
+/**
+* 
+*/
+class System extends Router
+{
+	
+	private $url;
+	private $exploder;
+	private $area;
+	private $controller;
+	private $action;
+	private $params;
+
+}
+
+  ?>
